@@ -1,8 +1,9 @@
 https://docs.djangoproject.com/en/3.2/howto/initial-data/
 https://www.youtube.com/watch?v=eC95DrKMEo8&list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml&index=17
 
-OBJECTIVE: convert CSV data into JSON data and insert into our database
-
+OBJECTIVE: 
+1. convert CSV data into JSON data and insert into our database
+2. insert data from fixtures into multiple tables
 SETUP:
 1. create fixture folder within book and user apps. 
 2. store the book.csv file inside our book/fixture folder 
